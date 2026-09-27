@@ -1,1 +1,1 @@
-# Certificates — Course completion and participation certificates
+# Certificates — Course completion certificates
