@@ -1,8 +1,8 @@
 # Wipro Capstone Project — API Automation Framework
 
 ## Student
-**Name:** Samrat  
-**College:** UEM  
+**Name:** Samrat  Das
+**College:** Institute of Engineering and Management, Kolkata 
 **Capstone:** Assignment 3 — Python API Automation Framework
 
 ---
